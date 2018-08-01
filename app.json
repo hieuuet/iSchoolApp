@@ -1,0 +1,10 @@
+{
+  "name": "iSchool",
+  "displayName": "iSchool",
+  "expo": {
+    "slug": "iSchool",
+    "name": "iSchool",
+    "sdkVersion": "24.0.0",
+    "entryPoint": "c:\\Users\\User\\Documents\\Working\\iSchool\\Code\\iSchoolApp\\.vscode\\exponentIndex.js"
+  }
+}
